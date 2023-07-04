@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "605214975464",
+    "project_id": "rolebased-b4aa9",
+    "storage_bucket": "rolebased-b4aa9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:605214975464:android:9384cae35991c03594305d",
+        "android_client_info": {
+          "package_name": "com.example.rolebased"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "605214975464-2t7vtjc473f5jkq520dtfml1d3ifmcbc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTPFPCJMaGn2f49T39hQc41Gk1jcl_4lo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "605214975464-2t7vtjc473f5jkq520dtfml1d3ifmcbc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
